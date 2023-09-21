@@ -1,0 +1,20 @@
+body {
+  background-color: azure;
+  background-image: url("https://images.pexels.com/photos/5374862/pexels-photo-5374862.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: no-repeat;
+  height: 350px;
+  background-size: cover;
+  background-position: center;
+}
+
+a {
+  font-size: medium;
+  padding: 100px;
+}
+h2 {
+  color: crimson;
+}
+.footer {
+  position: fixed;
+  text-align: left;
+}
